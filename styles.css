@@ -1,0 +1,59 @@
+body{
+    margin: 0;
+    text-align: center;
+    font-family: "Inter", sans-serif;
+    background: #1F2937;
+}
+
+.hero{
+    background: #6943FF ;
+    color: white;
+    margin: 0px auto;
+    padding: 30px;
+    width: auto;
+    height: auto;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+input{
+    background-color: #6943FF;
+    color: white;
+    text-align: center;
+    font-size: 40px;
+    font-weight: bold;
+    border: 1px solid #B295FF;
+    height: 50px;
+    width: 70px;
+    margin-bottom: 20px;
+    
+}
+input:focus{
+    outline: none;
+}
+
+button{
+    background: white;
+    color: #3D3D3D;
+    border: 1px solid white;
+    width: 90px;
+    height: 30px;
+    border-radius: 5px;
+    padding: 5px 10px;
+}
+
+#mass, #volume, #length{
+    background: #273549;
+    color: #CCC1FF;
+    height: 100px;
+    margin: 51px 21px;
+    padding-top: 8px;
+}
+
+p{
+    color: #FFFFFF;
+    font-weight: normal;
+}
+
+
